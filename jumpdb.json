@@ -1,0 +1,11 @@
+{
+    "prd":{
+        "weur":{"ip":"10.5.128.69", "name":"LPWEURJUMP01"},
+        "neur":{"ip":"10.5.152.69", "name":"PLSYLCSNEUJP01"},
+        "seas":{"ip":"10.5.176.69", "name":"PLSYLCSSEAJP01"}
+    },
+    "dev":{
+        "weur" :{"ip":"10.5.240.57", "name":"VSL-WEUR-LJMP1"},
+        "weur2":{"ip":"10.5.240.60", "name":"VSL-WEUR-EJMP1"}
+    }
+  }

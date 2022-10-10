@@ -1,0 +1,34 @@
+{
+    "prd":{
+        "weur":{
+            "fw1":{"ip":"10.5.128.120", "name":"PLSYLCSWEUFW01"},
+            "fw2":{"ip":"10.5.128.121", "name":"PLSYLCSWEUFW02"}
+        },
+        "neur":{
+            "fw1":{"ip":"10.5.152.120", "name":"PLSYLCSNEUFW01"},
+            "fw2":{"ip":"10.5.152.121", "name":"PLSYLCSNEUFW02"}
+        },
+        "seas":{
+            "fw1":{"ip":"10.5.176.120", "name":"PLSYLCSSEAFW01"},
+            "fw2":{"ip":"10.5.176.121", "name":"PLSYLCSSEAFW02"}
+        },
+        "auea":{
+            "fw1":{"ip":"10.5.80.120", "name":"PLSYLCSAUEFW01"},
+            "fw2":{"ip":"10.5.80.121", "name":"PLSYLCSAUEFW02"}
+        },
+        "eus2":{
+            "fw1":{"ip":"10.5.16.120", "name":"PLSYLCSAUEFW01"},
+            "fw2":{"ip":"10.5.16.121", "name":"PLSYLCSAUEFW02"}
+        },
+        "cus":{
+            "fw1":{"ip":"10.5.24.120", "name":"PLSYLCSAUEFW01"},
+            "fw2":{"ip":"10.5.24.121", "name":"PLSYLCSAUEFW02"}
+        }
+    },
+    "dev":{
+        "weur":{
+            "fw1":{"ip":"10.5.240.120", "name":"DLSYLCSWEUFW01"},
+            "fw2":{"ip":"10.5.240.121", "name":"DLSYLCSWEUFW02"}
+        }
+    }
+  }
